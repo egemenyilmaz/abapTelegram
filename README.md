@@ -1,1 +1,1 @@
-Telegram API written in ABAP
+Telegram ABAP connector
